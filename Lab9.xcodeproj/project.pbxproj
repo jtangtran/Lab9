@@ -15,6 +15,7 @@
 		E4BEA4202422FAF200230CA2 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = E4BEA41E2422FAF200230CA2 /* LaunchScreen.storyboard */; };
 		E4BEA42B2422FAF200230CA2 /* Lab9Tests.swift in Sources */ = {isa = PBXBuildFile; fileRef = E4BEA42A2422FAF200230CA2 /* Lab9Tests.swift */; };
 		E4BEA4362422FAF300230CA2 /* Lab9UITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = E4BEA4352422FAF300230CA2 /* Lab9UITests.swift */; };
+		E4BEA4442422FC7D00230CA2 /* ics069.scnassets in Resources */ = {isa = PBXBuildFile; fileRef = E4BEA4432422FC7C00230CA2 /* ics069.scnassets */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -49,6 +50,7 @@
 		E4BEA4312422FAF200230CA2 /* Lab9UITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = Lab9UITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		E4BEA4352422FAF300230CA2 /* Lab9UITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Lab9UITests.swift; sourceTree = "<group>"; };
 		E4BEA4372422FAF300230CA2 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		E4BEA4432422FC7C00230CA2 /* ics069.scnassets */ = {isa = PBXFileReference; lastKnownFileType = wrapper.scnassets; path = ics069.scnassets; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -99,6 +101,7 @@
 		E4BEA4122422FAEE00230CA2 /* Lab9 */ = {
 			isa = PBXGroup;
 			children = (
+				E4BEA4432422FC7C00230CA2 /* ics069.scnassets */,
 				E4BEA4132422FAEE00230CA2 /* AppDelegate.swift */,
 				E4BEA4152422FAEE00230CA2 /* art.scnassets */,
 				E4BEA4172422FAEE00230CA2 /* ViewController.swift */,
@@ -236,6 +239,7 @@
 				E4BEA4202422FAF200230CA2 /* LaunchScreen.storyboard in Resources */,
 				E4BEA41D2422FAF200230CA2 /* Assets.xcassets in Resources */,
 				E4BEA41B2422FAEE00230CA2 /* Main.storyboard in Resources */,
+				E4BEA4442422FC7D00230CA2 /* ics069.scnassets in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
