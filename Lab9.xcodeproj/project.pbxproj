@@ -16,6 +16,9 @@
 		E4BEA42B2422FAF200230CA2 /* Lab9Tests.swift in Sources */ = {isa = PBXBuildFile; fileRef = E4BEA42A2422FAF200230CA2 /* Lab9Tests.swift */; };
 		E4BEA4362422FAF300230CA2 /* Lab9UITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = E4BEA4352422FAF300230CA2 /* Lab9UITests.swift */; };
 		E4BEA4442422FC7D00230CA2 /* ics069.scnassets in Resources */ = {isa = PBXBuildFile; fileRef = E4BEA4432422FC7C00230CA2 /* ics069.scnassets */; };
+		E4BEA446242339CE00230CA2 /* AdjustViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = E4BEA445242339CE00230CA2 /* AdjustViewController.swift */; };
+		E4BEA4472423456000230CA2 /* AdjustViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = E4BEA445242339CE00230CA2 /* AdjustViewController.swift */; };
+		E4BEA4482423456000230CA2 /* AdjustViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = E4BEA445242339CE00230CA2 /* AdjustViewController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -51,6 +54,7 @@
 		E4BEA4352422FAF300230CA2 /* Lab9UITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Lab9UITests.swift; sourceTree = "<group>"; };
 		E4BEA4372422FAF300230CA2 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		E4BEA4432422FC7C00230CA2 /* ics069.scnassets */ = {isa = PBXFileReference; lastKnownFileType = wrapper.scnassets; path = ics069.scnassets; sourceTree = "<group>"; };
+		E4BEA445242339CE00230CA2 /* AdjustViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AdjustViewController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -105,6 +109,7 @@
 				E4BEA4132422FAEE00230CA2 /* AppDelegate.swift */,
 				E4BEA4152422FAEE00230CA2 /* art.scnassets */,
 				E4BEA4172422FAEE00230CA2 /* ViewController.swift */,
+				E4BEA445242339CE00230CA2 /* AdjustViewController.swift */,
 				E4BEA4192422FAEE00230CA2 /* Main.storyboard */,
 				E4BEA41C2422FAF200230CA2 /* Assets.xcassets */,
 				E4BEA41E2422FAF200230CA2 /* LaunchScreen.storyboard */,
@@ -264,6 +269,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				E4BEA446242339CE00230CA2 /* AdjustViewController.swift in Sources */,
 				E4BEA4182422FAEE00230CA2 /* ViewController.swift in Sources */,
 				E4BEA4142422FAEE00230CA2 /* AppDelegate.swift in Sources */,
 			);
@@ -274,6 +280,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				E4BEA42B2422FAF200230CA2 /* Lab9Tests.swift in Sources */,
+				E4BEA4472423456000230CA2 /* AdjustViewController.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -282,6 +289,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				E4BEA4362422FAF300230CA2 /* Lab9UITests.swift in Sources */,
+				E4BEA4482423456000230CA2 /* AdjustViewController.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
